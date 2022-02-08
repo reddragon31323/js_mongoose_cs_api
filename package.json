@@ -1,0 +1,19 @@
+{
+  "name": "js_mongoose_cs_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reddragon31323/js_mongoose_cs_api.git"
+  },
+  "author": "Jean Felipe dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reddragon31323/js_mongoose_cs_api/issues"
+  },
+  "homepage": "https://github.com/reddragon31323/js_mongoose_cs_api#readme"
+}
