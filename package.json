@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/reddragon31323/js_mongoose_cs_api/issues"
   },
-  "homepage": "https://github.com/reddragon31323/js_mongoose_cs_api#readme"
+  "homepage": "https://github.com/reddragon31323/js_mongoose_cs_api#readme",
+  "devDependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
 }
